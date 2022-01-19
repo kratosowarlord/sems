@@ -10,8 +10,7 @@ With the help of Azure Virtual machines, the accountability, security and end to
 
 
 
-<img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" alt="Firebase Backend Service" width="100" height="100"> <img src="https://miro.medium.com/fit/c/1838/551/1*nV3wzxQFRxz54OVZbOG2SQ.png" alt="Cloud Firestore" width="350" height="100">
-
+<img src="https://abouconde335669239.files.wordpress.com/2018/12/virtual-machine.png" alt="azure Backend Service" width="100" height="100"> 
 The project is being kept Open Source to anyone who liked this and can change anything after they have pulled or cloned their own copy of this project and can run this on their own server.
 
 The current version of the web-app being : [![Generic badge](https://img.shields.io/badge/Version-1.1.0-Green.svg)](https://shields.io/)
