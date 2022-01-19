@@ -30,7 +30,7 @@ The web-app is hosted at: http://futurereadykaran.eastus.cloudapp.azure.com/
 
 <h3>Kindly visit the web-app page and enjoy.</h3>
 
-For feedback contact semsmmu@gmail.com or aakashvats2910@gmail.com
+For feedback contact semsmmu@gmail.com or karankaushal@hotmail.com
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
