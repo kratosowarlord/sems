@@ -1,8 +1,14 @@
 # sems
-This is the application made by the team of developers from ACE (MMDU MULLANA).
+This is the application made by Karan Kaushal
 
 This is a web app created to manage the Sports event management for any particular institution.
-The backend used is the Firebase Backend as a Service (BAAS) (Serverless) for this project. 
+
+The organizer can access the students registered for his/her event and verify the information. With the admin/Organizer portal, one can view the current events, Registered students and complaints of the participants. On the Participant portal, one can view all the ongoing and future events and register for the same.  This increases accountability and ease of access for the end user.
+
+
+With the help of Azure Virtual machines, the accountability, security and end to end control increases. With the help of network interfaces, admin can easily control the inbound and outbound traffic. It also helps to maintain the abrupt users on the platform. 
+
+
 
 <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-512.png" alt="Firebase Backend Service" width="100" height="100"> <img src="https://miro.medium.com/fit/c/1838/551/1*nV3wzxQFRxz54OVZbOG2SQ.png" alt="Cloud Firestore" width="350" height="100">
 
@@ -17,7 +23,8 @@ The current version of the web-app being : [![Generic badge](https://img.shields
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
 <h4>
-The web-app is hosted at: https://sems-4fbdd.web.app/
+The web-app is hosted at: http://futurereadykaran.eastus.cloudapp.azure.com/
+  
   </h4>
 
 [![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://github.com/aakashvats2910/sems/graphs/contributors/)
